@@ -1,5 +1,7 @@
 # MySQL Notes
 
+Self-written MySQL notes created while learning MySQL, covering concepts from basics to advanced topics with examples and practice queries.
+
 ## Topics Covered
 
 - Basics
